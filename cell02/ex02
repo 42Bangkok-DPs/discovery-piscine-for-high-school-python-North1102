@@ -1,0 +1,6 @@
+password = input("Your password")
+password = int(password)
+if password == 1234:
+    print("ACCESS GRANTED")
+else :
+    print("ACCESS DENIED")
