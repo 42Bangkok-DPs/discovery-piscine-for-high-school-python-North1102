@@ -1,0 +1,5 @@
+# whatsyourname
+first_name = input("What is you first name?")
+last_name = input("What is you last name?")
+youname = first_name + " " + last_name
+print(youname)
