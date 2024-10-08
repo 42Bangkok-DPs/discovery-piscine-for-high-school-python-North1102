@@ -1,0 +1,6 @@
+# namev2.py
+first_name = "natthapt"
+last_name = "aiamsap"
+whole_name = "naiamsap"
+print(first_name , last_name)
+print(whole_name)
