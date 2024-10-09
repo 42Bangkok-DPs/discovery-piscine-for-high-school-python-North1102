@@ -1,0 +1,8 @@
+def i ():
+
+    userinput = input()
+    swapped = userinput.swapcase()
+    print(swapped)
+
+if __name__ == "__main__":
+    i()
