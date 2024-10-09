@@ -1,0 +1,3 @@
+i = input("Give me a word: ")
+uppercase_i = i.upper()
+print(uppercase_i)
