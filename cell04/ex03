@@ -1,0 +1,16 @@
+def is_decimal(number):
+
+    try:
+        float(number)
+        return True
+    except ValueError:
+        return False
+
+if __name__ == "__main__":
+        number = input("Give me a number: ")
+
+        if is_decimal(number):
+            print("This number is a decimal.")
+        else:
+            print("This number is an decimal.")
+            
