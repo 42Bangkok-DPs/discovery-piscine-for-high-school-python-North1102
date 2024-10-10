@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+
+i = input("What you gonna say? : ")
+if i.upper() == "STOP":
+    pass
+else:
+    while True:
+        i2 = input("I got that! Anything else? : ")
+        if i2.upper() == "STOP":
+            break
+            
